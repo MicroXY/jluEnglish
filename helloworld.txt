@@ -1,0 +1,75 @@
+## Hello World
+
+#### Hello World
+
+> a link to external web site.
+
+[我的博客](https://microxy.github.io/)
+
+[Back to the ReadMe](README.MD)
+
+![GTA 藏宝图](GTA.png)
+
+
+
+![百度](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
+
+
+
+
+
+
+
+```python
+import os
+import jlu
+jlu.English("专业英语满分\n")
+print("hello world!")
+
+```
+
+> 你说什么
+>
+> 我听不清
+
+* [purple]   balbalbalab
+* [lllllll]  hahahahah
+  * 你说什么？？？？
+
+1. 你好
+2. 我不好
+3. 你有病吧
+4. 老师，我精神病了
+
+
+
+| 用编程语言 | 类型划分 | 运行速度 |
+| ---------- | -------- | -------- |
+| hai        | sha      | ssh      |
+
+
+
+| 长江边   | 朱世隆 |
+| -------- | ------ |
+| 有个孩子 | 叫杀掉 |
+
+**牛逼我变粗了**
+
+__我有变粗了__
+
+_完了我歪了_
+
+*你完蛋了*
+
+~~哈哈哈哈终于 打败英语老师了~~
+
+~~哈哈哈哈终于 满分了~~
+
+***
+
+看见没，牛逼不，我画线了，哈哈哈哈
+
+---
+
+
+
